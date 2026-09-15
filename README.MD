@@ -129,8 +129,7 @@ git clone https://github.com/Popodada3221/SCOI.git
 - Сделать пакетную обработку изображений
 
 ## Контакты
-Автор: Даниил (Popodada3221)
+Автор: Даниил (DaniilBukov)
 
-[GitHub](https://github.com/Popodada3221)
+[GitHub](https://github.com/DaniilBukov)
 
-Telegram: @Daniil_bck
